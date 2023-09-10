@@ -11,8 +11,3 @@ get crazy with it feel free to contribute.
 
 deafault template used is applight.zip
 
-
-<div align="center">
-  <h1><sub>Built with ❤︎ by
-  <a href="https://www.mohammedibrahim.tech/">Mohammed</a> & <a href="https://dawit-sh.github.io/portfolio/">Dawit</a><h1>
-</div>
