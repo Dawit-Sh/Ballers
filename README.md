@@ -7,3 +7,5 @@ Bro-Balls an app Jin-Yang and Big Head might make in collaboration. Nothing seri
 # Just a Meme 
 
 get crazy with it feel free to contribute.
+
+deafault template used is applight.zip
