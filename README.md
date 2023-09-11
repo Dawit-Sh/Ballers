@@ -20,8 +20,6 @@ To use this code, follow these steps:
 2. Open the `index.html` file in a web browser.
 
 ## Contributors
-
-- Your Name (Your GitHub Profile URL)
 - [Dawit-Sh](https://github.com/Dawit-Sh)
 - [Mr.Seintel](https://github.com/MohammedIbrahim8887)
 - [DaagNo1](https://github.com/MohammedIbrahim8887](https://github.com/DagNo1))
