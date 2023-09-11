@@ -14,16 +14,14 @@ This repository contains the code for the Bro Balls app, a humorous take on mobi
 
 ## How to Use
 
-To use this code, follow these steps:
-
-1. Clone this repository to your local machine.
-2. Open the `index.html` file in a web browser.
+Download the app enjoy the humor 
 
 ## Contributors
 - [Dawit-Sh](https://github.com/Dawit-Sh)
 - [Mr.Seintel](https://github.com/MohammedIbrahim8887)
 - [DaagNo1](https://github.com/MohammedIbrahim8887](https://github.com/DagNo1))
 - [abel_cosmic](https://github.com/abel-cosmic)
+- [YohannesTz](https://github.com/YohannesTz)
 
 
 **Note:** This project is for entertainment purposes only and not intended for actual use. Enjoy the humor and creativity!
