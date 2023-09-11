@@ -9,5 +9,5 @@ Bro-Balls an app Jin-Yang and Big Head might make in collaboration. Nothing seri
 
 get crazy with it feel free to contribute.
 
-deafault template used is applight.zip
+deafault template used is [applight.zip](https://github.com/Dawit-Sh/Ballers/blob/main/applight.zip)
 
