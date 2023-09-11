@@ -30,6 +30,3 @@ To use this code, follow these steps:
 
 **Note:** This project is for entertainment purposes only and not intended for actual use. Enjoy the humor and creativity!
 
-![Ballers Corp](https://i.imgur.com/3oMt2zI.png)
-
-
